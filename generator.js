@@ -1,12 +1,4 @@
-/**
- * ==========================================
- * WTS Ticket Generator
- * Version 0.0.4
- * generator.js
- * ==========================================
- */
-
-function generateTicket() {
+function generateTicket(){
 
     return [
 
